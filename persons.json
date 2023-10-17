@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Kris",
+    "date_of_birth": "1994-12-09"
+  },
+  {
+    "name": "Ana",
+    "date_of_birth": "1985-05-10"
+  },
+  {
+    "name": "Carlos",
+    "date_of_birth": "1995-09-30"
+  },
+  {
+    "name": "Nueva Persona",
+    "date_of_birth": "2000-01-01"
+  },
+  {
+    "name": "Nueva Persona dos",
+    "date_of_birth": "2023-01-01"
+  },
+  {
+    "name": "Nueva Persona dos",
+    "date_of_birth": "2013-01-01"
+  }
+]
